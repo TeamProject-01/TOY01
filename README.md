@@ -2,8 +2,28 @@
 토이프로젝트
 
 
-SpringMVC	
-Vue.JS	
-PostgreSQL	
-Git
-Tomcat
+SpringMVC <br>
+Vue.JS	<br>
+PostgreSQL	<br>
+Git <br>
+Tomcat <br>
+
+<br>
+<br>
+
+인환 
+<br>
+1. 연예인 관련 테마 (1도 모름..)  → 사진 이름 맞추기 (난이도별로 나누기) / 중간 플랫폼 (연예인들 활동 정보, 촬영예정 역할, 팬카페 링크?)<br>
+2. ChatGPT 는 너무 스케일 클것 같고<br>
+3. 부동산 (분양 정보, 시세)<br>
+4. 자동차 추천 (그돈씨) 그 돈이면 ** 더 좋은 차 사지<br>
+<br>
+진령<br>
+<br>
+1. 로튼토마토같은 영화/ott 후기 사이트<br>
+2. 텀블벅같은 후원 사이트<br>
+<br>
+혜연<br>
+<br>
+1. 덕질사이트<br>
+2. 맛집리뷰<br>
